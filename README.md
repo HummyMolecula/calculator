@@ -3,4 +3,6 @@
 
 Simple calulator!
 
-Version 1.0
+Version 2.0
+
+- now you can shoose operator!
